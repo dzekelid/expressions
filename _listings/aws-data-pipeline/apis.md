@@ -18,9 +18,9 @@ tags:
 - Stack Network
 - Data
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/expressions/master/_listings/aws-data-pipeline/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/expressions/master/_listings/aws-data-pipeline/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Data Pipeline API
@@ -33,7 +33,7 @@ apis:
   tags: Expressions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/expressions/master/_listings/aws-data-pipeline/action-evaluateexpression-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/expressions/master/_listings/aws-data-pipeline/action-evaluateexpression-get.md
 x-common:
 - type: x-blog
   url: http://blogs.aws.amazon.com/bigdata
