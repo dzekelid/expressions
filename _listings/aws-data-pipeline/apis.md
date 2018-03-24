@@ -18,8 +18,8 @@ tags:
 - Stack Network
 - Data
 - Amazon Web Services
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/expressions/master/_listings/aws-data-pipeline/apis.yaml
 specificationVersion: "0.14"
 apis:
