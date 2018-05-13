@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Data Pipeline API
+  title: AWS Data Pipeline API Evaluate Expression
   version: 1.0.0
+  description: Task runners call EvaluateExpression to evaluate a string in the context
+    of the specified object.
 schemes:
 - http
 produces:
